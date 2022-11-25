@@ -1,0 +1,21 @@
+#box{
+    width: 150px;
+    height: 100px;
+    background: black;
+
+    display: flex;
+    justify-content: center;
+}
+.mensagem{
+    color: aliceblue;
+}
+
+
+#box1{
+    width: 150px;
+    height: 100px;
+    background: red;
+
+    display: flex;
+    justify-content: center;
+}
